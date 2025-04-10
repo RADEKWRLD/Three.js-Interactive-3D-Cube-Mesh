@@ -5,7 +5,8 @@
     "xxx": "^0.0.1"
   },
   "scripts": {
-    "vercel-build": "npm ci && npm run build"
+    "vercel-build": "npm ci && npm run build",
+    "build": "chmod +x node_modules/.bin/vite && vite build"
   },
   "devDependencies": {
     "vite": "^6.2.5"
