@@ -5,6 +5,6 @@
     "xxx": "^0.0.1"
   },
   "devDependencies": {
-    "vite": "^6.2.2"
+    "vite": "^6.2.5"
   }
 }
