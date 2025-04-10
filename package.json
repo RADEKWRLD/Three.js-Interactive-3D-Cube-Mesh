@@ -4,6 +4,9 @@
     "three": "^0.174.0",
     "xxx": "^0.0.1"
   },
+  "scripts": {
+    "vercel-build": "npm ci && npm run build"
+  },
   "devDependencies": {
     "vite": "^6.2.5"
   }
